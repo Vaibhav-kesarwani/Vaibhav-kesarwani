@@ -3,7 +3,7 @@
 <img align="right" width=400 ait="coding" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav-kesarwani&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-kesarwani" /> </p>
 
-<p align="left"> <a href="https://twitter.com/vaibhav_k_" target="blank"><img src="https://img.shields.io/twitter/follow/vaibhav_k_?logo=twitter&style=for-the-badge" alt="vaibhav_k_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vaibhav_k__" target="blank"><img src="https://img.shields.io/twitter/follow/vaibhav_k__?logo=twitter&style=for-the-badge" alt="vaibhav_k__" /></a> </p>
 
 - 🌱 I’m currently learning **javaScript, C++, Full Stack Development**
 
