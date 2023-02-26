@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vaibhav_k__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaibhav_k__" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vaibhav kesarwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav kesarwani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vaibhav-kesarwani-9b5b35252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-kesarwani-9b5b35252" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:20806278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:20806278" height="30" width="40" /></a>
 <a href="https://instagram.com/vaibhavkesarwani__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaibhavkesarwani__" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/never_mindd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="never_mindd" height="30" width="40" /></a>
