@@ -17,9 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/vaibhav_k__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaibhav_k__" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vaibhav-kesarwani-9b5b35252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-kesarwani-9b5b35252" height="30" width="40" /></a>
-
 <a href="https://instagram.com/vaibhavkesarwani__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaibhavkesarwani__" height="30" width="40" /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
