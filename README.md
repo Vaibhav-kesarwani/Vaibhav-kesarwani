@@ -43,7 +43,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="https://img.shields.io/badge/-ReactNative-black?style=for-the-badge&logo=react&logoColor=white" />
 </div>
 
-My GitHub Stats
+ ⚡Top Language used⚡
+ -------------------
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-kesarwani&hide=javascript,css,scss,html&theme=tokyonight)
+
+📶My GitHub Stats
 -----------------------
 
 GitHub Streak             |  Vaibhav's GitHub stats
