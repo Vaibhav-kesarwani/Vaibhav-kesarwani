@@ -19,13 +19,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 🤝Let's connect!
 ----------------------------------
 <p align="start">
-<a href="https://www.linkedin.com/in/vaibhav-kesarwani-9b5b35252/">
+<a href="https://www.linkedin.com/in/vaibhav-kesarwani-9b5b35252/" target="_blank">
     <img src="https://img.shields.io/badge/Linkdin-1877F2?style=for-the-badge&logo=linkdin&logoColor=white" />
 </a>
-<a href="https://twitter.com/Vaibhav_k__">
+<a href="https://twitter.com/Vaibhav_k__" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://minmal-portfolio.vercel.app/">
+<a href="https://minmal-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
  </p>
