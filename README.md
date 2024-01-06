@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 👋 Hey there! I'm a second-year CSE(AIML) student passionate about coding in C, C++, Python, Java, and Kotlin for app development. I also love working on web development with HTML, CSS, JavaScript, React Js, and databases like MySQL or MongoDB. Always eager to learn and upgrade my skills!
 
 * 🌍  Open Source Contributor from ****India**** 🇮🇳
-* 🖥️  See my portfolio at [My Portfolio](comingSoon...)
+* 🖥️  See my portfolio at [My Portfolio](https://minmal-portfolio.vercel.app/)
 * ✉️  You can contact me at [vaibhavkesarwani100@gmail.com](mailto:vaibhavkesarwani100@gmail.com)
 * 🚀  I'm currently working on [Machine Learning & Deep Learning](https://en.wikipedia.org/wiki/Machine_learning)
 * 🧠  I'm learning MERN, Tensorflow, NumPy, JS, Kotlin, React Native
@@ -25,7 +25,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://twitter.com/Vaibhav_k__">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="nothing.com">
+<a href="https://minmal-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
  </p>
