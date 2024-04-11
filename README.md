@@ -51,10 +51,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  -------------------
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-kesarwani&hide=html,css,scss,cmake&theme=tokyonight)
-
-📶My GitHub Stats
------------------------
-
-GitHub Streak             |  Vaibhav's GitHub stats
-:-------------------------:|:-------------------------:
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vaibhav-kesarwani&theme=dracula&hide_border=true)](https://git.io/streak-stats) | ![vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaibhav-kesarwani&count_private=true&theme=radical)
