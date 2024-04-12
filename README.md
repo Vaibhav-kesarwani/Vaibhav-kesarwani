@@ -8,7 +8,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 🎓Student, Web Developer & App Developer
 --------------------------------------
 
-👋 Hey there! I'm a second-year CSE(AIML) student passionate about coding in C, C++, Python, Java, and Kotlin for app development. I also love working on web development with HTML, CSS, JavaScript, React Js, and databases like MySQL or MongoDB. Always eager to learn and upgrade my skills!
+👋 Hey there! 🎉 So, I'm a second-year CSE(AIML) student, and I'm super passionate about coding! I love diving into languages like C, C++, Python, Java, and Kotlin because they open up so many possibilities for app development. But you know what's even more exciting? AI and ML! 🤖 Exploring these fields feels like unlocking a whole new world of possibilities.
+
+And then there's web development – it's like my creative outlet! HTML, CSS, JavaScript, React Js – I'm all in! 💻 Building cool web apps and seeing them come to life is just so rewarding. And of course, we can't forget about databases like MySQL and MongoDB – they're the backbone of everything we do.
+
+I'm always hungry to learn and grow, because in this field, there's always something new around the corner. So, let's keep pushing those boundaries and see where our skills take us! 🔥
 
 * 🌍  Open Source Contributor from ****India**** 🇮🇳
 * 🖥️  See my portfolio at [My Portfolio](https://minmal-portfolio.vercel.app/)
