@@ -53,5 +53,4 @@ I'm always hungry to learn and grow, because in this field, there's always somet
 
  ⚡Top Language used⚡
  -------------------
- 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-kesarwani&hide=html,css,scss,cmake&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-kesarwani&hide=html,css,scss,cmake&theme=radical)        [![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaibhav-kesarwani&show_icons=true&theme=radical)](https://github.com/chensokheng/github-readme-stats)
