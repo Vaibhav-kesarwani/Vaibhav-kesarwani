@@ -71,8 +71,8 @@ I'm always hungry to learn and grow, because in this field, there's always somet
       <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="55" height="55" />
       <br>Typescript
     </td>
-    <td align="center" widht="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="60" height="55" />
+    <td align="center" widht="100">
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="55" height="55" />
       <br>Next Js
     </td>
     <td align="center" width="90">
