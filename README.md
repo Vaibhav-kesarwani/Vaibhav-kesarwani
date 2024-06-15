@@ -24,40 +24,51 @@ I'm always hungry to learn and grow, because in this field, there's always somet
 
 🤝Let's connect!
 ----------------------------------
-<p align="start">
-<a href="https://www.linkedin.com/in/vaibhav-kesarwani-9b5b35252/" target="_blank">
-    <img src="https://img.shields.io/badge/Linkdin-1877F2?style=for-the-badge&logo=linkdin&logoColor=white" />
-</a>
-<a href="https://twitter.com/Vaibhav_k__" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://vaibhav-kesarwani.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
- </p>
+<table align="" class="table table-dark">
+  <tr bg-dark>
+    <td align="center" widht=90>
+        <a href="https://www.linkedin.com/in/vaibhav-kesarwani-9b5b35252/" target="_blank">
+            <img src="https://skillicons.dev/icons?i=linkedin" />
+        </a>
+      <br>Linkedin
+    </td>
+    <td align="center" widht=90>
+        <a href="https://twitter.com/Vaibhav_k__" target="_blank">
+            <img src="https://skillicons.dev/icons?i=twitter" />
+        </a>
+        <br>Twitter
+    </td>
+    <td align="center" widht=90>
+        <a href="https://vaibhavkesarwani.vercel.app/" target="_blank">
+            <img src="https://skillicons.dev/icons?i=htmx" />
+        </a>
+        <br>Portfolio
+    </td>
+  </tr>
+</table>
  
 🛠 Tools & Technology
 ---------------------
 <table align="center" class="table table-dark">
   <tr bg-dark>
     <td align="center" widht=90>
-      <img src="https://skillicons.dev/icons?i=html" alt="icon" width="55" height="55" />
-      <br>Html
+      <img src="https://skillicons.dev/icons?i=django" alt="icon" width="55" height="55" />
+      <br>Django
     </td>
     <td align="center" widht=90>
-      <img src="https://skillicons.dev/icons?i=css" alt="icon" width="55" height="55" />
-      <br>Css
+      <img src="https://skillicons.dev/icons?i=flask" alt="icon" width="55" height="55" />
+      <br>Flask
     </td>
     <td align="center" widht=90>
-      <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="55" height="55" />
-      <br>Bootstrap
+      <img src="https://skillicons.dev/icons?i=flutter" alt="icon" width="55" height="55" />
+      <br>Flutter
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=js" alt="icon" width="55" height="55" />
       <br>Javascript
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="55" height="55" />
       <br>Typescript
     </td>
     <td align="center" widht=90>
@@ -65,7 +76,7 @@ I'm always hungry to learn and grow, because in this field, there's always somet
       <br>Next Js
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="55" height="55" />
       <br>React
     </td>
     <td align="center" width="90">
@@ -87,15 +98,15 @@ I'm always hungry to learn and grow, because in this field, there's always somet
       <br>MySQL
     </td>
      <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=cpp" alt="icon" width="55" height="55" />
       <br>C++
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=java" alt="icon" width="55" height="55" />
       <br>Java
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=python" alt="icon" width="55" height="55" />
       <br>Python
     </td>
     <td align="center" width="90">
@@ -123,8 +134,66 @@ I'm always hungry to learn and grow, because in this field, there's always somet
       <br>vscode
     </td>
   </tr>
+<tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=kotlin" alt="icon" width="55" height="55" />
+      <br>Kotlin
+    </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=opencv" alt="icon" width="55" height="55" />
+      <br>OpenCV
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="icon" width="55" height="55" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=prisma" alt="icon" width="55" height="55" />
+      <br>Prisma
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45" alt="MongoDB" />
+      <br>Pytorch
+    </td>
+    <td align="center" widht=90>
+      <img src="https://skillicons.dev/icons?i=redux" alt="icon" width="55" height="55" />
+      <br>Redux
+    </td>
+    <td align="center" widht=90>
+      <img src="https://skillicons.dev/icons?i=supabase" alt="icon" width="55" height="55" />
+      <br>Supabase
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="55" height="55" alt="linux" />
+      <br>SK learn
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="55" height="55" alt="md" />
+      <br>Tensorflow
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="vscode" />
+      <br>Three Js
+    </td>
+  </tr>
 </table>
 
  ⚡Top Language used⚡
  -------------------
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-kesarwani&hide=html,css,scss,cmake&theme=radical)        [![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaibhav-kesarwani&show_icons=true&theme=radical)](https://github.com/chensokheng/github-readme-stats)
+<table align="center" class="table table-dark">
+    <tr bg-dark>
+        <td align="center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-kesarwani&hide=html,css,scss,cmake&theme=radical" />            
+        </td>
+        <td align="center">
+            <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav-kesarwani&show_icons=true&theme=radical" />
+        </td>
+    </tr>
+    <tr bg-dark>
+        <td align="center" colspan="2">
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav-kesarwani&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+        </td>
+    </tr>
+</table>
+ 
+        
