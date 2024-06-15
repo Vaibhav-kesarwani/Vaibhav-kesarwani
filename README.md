@@ -191,7 +191,7 @@ I'm always hungry to learn and grow, because in this field, there's always somet
     </tr>
     <tr bg-dark>
         <td align="center" colspan="2">
-            <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav-kesarwani&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav-kesarwani&bg_color=141321&color=FFF&line=5BCDEC&point=FFFFFF&hide_border=true" />
         </td>
     </tr>
 </table>
