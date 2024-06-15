@@ -38,18 +38,92 @@ I'm always hungry to learn and grow, because in this field, there's always somet
  
 🛠 Tools & Technology
 ---------------------
-<div align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-c++-black?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=Java&logoColor=black" />
-  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ReactNative-black?style=for-the-badge&logo=react&logoColor=white" />
-</div>
+<table align="center" class="table table-dark">
+  <tr bg-dark>
+    <td align="center" widht=90>
+      <img src="https://skillicons.dev/icons?i=html" alt="icon" width="55" height="55" />
+      <br>Html
+    </td>
+    <td align="center" widht=90>
+      <img src="https://skillicons.dev/icons?i=css" alt="icon" width="55" height="55" />
+      <br>Css
+    </td>
+    <td align="center" widht=90>
+      <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="55" height="55" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+      <br>Javascript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+      <br>Typescript
+    </td>
+    <td align="center" widht=90>
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="55" height="55" />
+      <br>Next Js
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="rails" />
+      <br>Vercel
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="php" />
+      <br>Node Js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
+      <br>Laravel
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
+      <br>MySQL
+    </td>
+     <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" />
+      <br>C++
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
+      <br>Java
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" widht=90>
+      <img src="https://skillicons.dev/icons?i=git" alt="icon" width="55" height="55" />
+      <br>Git
+    </td>
+    <td align="center" widht=90>
+      <img src="https://skillicons.dev/icons?i=github" alt="icon" width="55" height="55" />
+      <br>Github
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=linux" width="55" height="55" alt="linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=md" width="55" height="55" alt="md" />
+      <br>md
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="vscode" />
+      <br>vscode
+    </td>
+  </tr>
+</table>
 
  ⚡Top Language used⚡
  -------------------
