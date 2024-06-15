@@ -87,10 +87,6 @@ I'm always hungry to learn and grow, because in this field, there's always somet
       <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="php" />
       <br>Node Js
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
-      <br>Laravel
-    </td>
   </tr>
   <tr>
     <td align="center" width="90">
@@ -129,10 +125,6 @@ I'm always hungry to learn and grow, because in this field, there's always somet
       <img src="https://skillicons.dev/icons?i=md" width="55" height="55" alt="md" />
       <br>md
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="vscode" />
-      <br>vscode
-    </td>
   </tr>
 <tr>
     <td align="center" width="90">
@@ -162,10 +154,6 @@ I'm always hungry to learn and grow, because in this field, there's always somet
     <td align="center" widht=90>
       <img src="https://skillicons.dev/icons?i=supabase" alt="icon" width="55" height="55" />
       <br>Supabase
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=sklearn" width="55" height="55" alt="linux" />
-      <br>SK learn
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=tensorflow" width="55" height="55" alt="md" />
