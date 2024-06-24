@@ -81,7 +81,7 @@ I'm always hungry to learn and grow, because in this field, there's always somet
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="rails" />
-      <br>Spring Boot
+      <br>Spring
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="php" />
