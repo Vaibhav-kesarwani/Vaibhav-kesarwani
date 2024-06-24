@@ -80,8 +80,8 @@ I'm always hungry to learn and grow, because in this field, there's always somet
       <br>React
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="rails" />
-      <br>Vercel
+      <img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="rails" />
+      <br>Spring Boot
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="php" />
