@@ -51,15 +51,15 @@ I'm always hungry to learn and grow, because in this field, there's always somet
 ---------------------
 <table align="center" class="table table-dark">
   <tr bg-dark>
-    <td align="center" widht=90>
+    <td align="center" widht="90">
       <img src="https://skillicons.dev/icons?i=django" alt="icon" width="55" height="55" />
       <br>Django
     </td>
-    <td align="center" widht=90>
+    <td align="center" widht="90">
       <img src="https://skillicons.dev/icons?i=flask" alt="icon" width="55" height="55" />
       <br>Flask
     </td>
-    <td align="center" widht=90>
+    <td align="center" widht="90">
       <img src="https://skillicons.dev/icons?i=flutter" alt="icon" width="55" height="55" />
       <br>Flutter
     </td>
@@ -80,11 +80,11 @@ I'm always hungry to learn and grow, because in this field, there's always somet
       <br>React
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="rails" />
+      <img src="https://skillicons.dev/icons?i=spring" width="55" height="55" alt="icon" />
       <br>Spring
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="php" />
+      <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="icon" />
       <br>Node Js
     </td>
   </tr>
@@ -106,7 +106,7 @@ I'm always hungry to learn and grow, because in this field, there's always somet
       <br>Python
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+      <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" alt="MongoDB" />
       <br>MongoDB
     </td>
     <td align="center" widht=90>
@@ -144,7 +144,7 @@ I'm always hungry to learn and grow, because in this field, there's always somet
       <br>Prisma
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45" alt="MongoDB" />
+      <img src="https://skillicons.dev/icons?i=pytorch" width="55" height="55" alt="MongoDB" />
       <br>Pytorch
     </td>
     <td align="center" widht=90>
@@ -160,7 +160,7 @@ I'm always hungry to learn and grow, because in this field, there's always somet
       <br>Tensorflow
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="vscode" />
+      <img src="https://skillicons.dev/icons?i=threejs" width="55" height="55" alt="vscode" />
       <br>Three Js
     </td>
   </tr>
