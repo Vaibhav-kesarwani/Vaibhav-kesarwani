@@ -14,7 +14,7 @@
 ## 🎓Student, Web Developer & App Developer
 
 
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! 🎉 So, I'm a second-year CSE(AIML) student, and I'm super passionate about coding! I love diving into languages like C, C++, Python, Java, and Kotlin because they open up so many possibilities for app development. But you know what's even more exciting? AI and ML! 🤖 Exploring these fields feels like unlocking a whole new world of possibilities.
+Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> So, I'm a second-year CSE(AIML) student, and I'm super passionate about coding! I love diving into languages like C, C++, Python, Java, and Kotlin because they open up so many possibilities for app development. But you know what's even more exciting? AI and ML! 🤖 Exploring these fields feels like unlocking a whole new world of possibilities.
 
 And then there's web development – it's like my creative outlet! HTML, CSS, JavaScript, React Js – I'm all in! 💻 Building cool web apps and seeing them come to life is just so rewarding. And of course, we can't forget about databases like MySQL and MongoDB – they're the backbone of everything we do.
 
