@@ -180,7 +180,7 @@ I'm always hungry to learn and grow, because in this field, there's always somet
 <table align="center" class="table table-dark">
     <tr bg-dark>
         <td align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-kesarwani&hide=html,css,scss,cmake&theme=radical" />            
+            <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Vaibhav-kesarwani&hide=HTML,css,scss,cmake&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />            
         </td>
         <td align="center">
             <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav-kesarwani&show_icons=true&theme=radical" />
@@ -188,7 +188,7 @@ I'm always hungry to learn and grow, because in this field, there's always somet
     </tr>
     <tr bg-dark>
         <td align="center" colspan="2">
-            <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav-kesarwani&bg_color=141321&color=FFF&line=5BCDEC&point=FFFFFF&hide_border=true" />
+            <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav-kesarwani&theme=radical" />
         </td>
     </tr>
 </table>
