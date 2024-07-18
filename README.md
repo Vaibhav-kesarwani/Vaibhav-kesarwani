@@ -192,5 +192,3 @@ I'm always hungry to learn and grow, because in this field, there's always somet
         </td>
     </tr>
 </table>
- 
-        
