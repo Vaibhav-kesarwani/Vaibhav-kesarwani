@@ -26,7 +26,7 @@ I'm always hungry to learn and grow, because in this field, there's always somet
 * 🚀  I'm currently working on [Machine Learning & Deep Learning](https://en.wikipedia.org/wiki/Machine_learning)
 * 🧠  I'm learning MERN, Tensorflow, NumPy, JS, Kotlin, React Native
 * 🤝  I'm open to collaborating on Web devlopment & App development
-* ⚡  There's no place like 127.0.0.1
+* ⚡  There's no place like **127.0.0.1**
 
 
 
