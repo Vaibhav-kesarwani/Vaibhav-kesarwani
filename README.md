@@ -1,19 +1,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vaibhav-kesarwani&label=Profile%20views&color=0e75b6&style=flat" alt="Vaibhav-kesarwani" /> </p>
 
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi ɪ'ᴍ Vaibhav! </h1>
 <!-- <img  alt="portfolio" width="100%" src="https://miro.medium.com/v2/resize:fit:1400/0*s7-847-cMWNrfnyH.gif"> -->
+
 ![gitartwork](gitartwork.svg)
 
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi ɪ'ᴍ Vaibhav! 
 <br /> 
-=========================================================================================================================================
 
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
 
-## 🎓Student, Web Developer & App Developer
-
+<h1> 🎓Student, Web Developer & App Developer </h1>
 
 Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> So, I'm a second-year CSE(AIML) student, and I'm super passionate about coding! I love diving into languages like C, C++, Python, Java, and Kotlin because they open up so many possibilities for app development. But you know what's even more exciting? AI and ML! 🤖 Exploring these fields feels like unlocking a whole new world of possibilities.
 
