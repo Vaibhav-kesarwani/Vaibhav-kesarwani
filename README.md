@@ -180,7 +180,7 @@ I'm always hungry to learn and grow, because in this field, there's always somet
 <table align="center" class="table table-dark">
     <tr bg-dark>
         <td align="center">
-            <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Vaibhav-kesarwani&hide=HTML,css,scss,cmake&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />            
+            <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Vaibhav-kesarwani&hide=HTML,css,scss,cmake&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />            
         </td>
         <td align="center">
             <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav-kesarwani&show_icons=true&theme=radical" />
@@ -191,7 +191,7 @@ I'm always hungry to learn and grow, because in this field, there's always somet
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav-kesarwani&theme=radical" />
         </td>
         <td align="center">
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vaibhav-kesarwani&theme=radical" height="180em" />
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vaibhav-kesarwani&theme=radical"  />
         </td>
     </tr>
 </table>
