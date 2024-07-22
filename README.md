@@ -187,8 +187,11 @@ I'm always hungry to learn and grow, because in this field, there's always somet
         </td>
     </tr>
     <tr bg-dark>
-        <td align="center" colspan="2">
-            <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav-kesarwani&theme=radical" />
+        <td align="center">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav-kesarwani&theme=radical" />
+        </td>
+        <td align="center">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vaibhav-kesarwani&theme=radical" height="180em" />
         </td>
     </tr>
 </table>
