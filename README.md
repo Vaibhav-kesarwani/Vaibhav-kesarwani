@@ -30,7 +30,7 @@ I'm always hungry to learn and grow, because in this field, there's always somet
 
 
 
-🤝Let's connect!
+<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="85px" style="max-width: 100%; user-select: auto;">Let's connect!
 ----------------------------------
 <table align="" class="table table-dark">
   <tr bg-dark>
@@ -55,7 +55,7 @@ I'm always hungry to learn and grow, because in this field, there's always somet
   </tr>
 </table>
  
-🛠 Tools & Technology
+<img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" width="53"/>Tools & Technology
 ---------------------
 <table align="center" class="table table-dark">
   <tr bg-dark>
