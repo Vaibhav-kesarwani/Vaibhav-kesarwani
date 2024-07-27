@@ -30,7 +30,7 @@ I'm always hungry to learn and grow, because in this field, there's always somet
 
 
 
-<h1><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="85px" style="max-width: 100%; user-select: auto;">Let's connect! </h1>
+<h1><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;">Let's connect! </h1>
 
 <table align="" class="table table-dark">
   <tr bg-dark>
@@ -55,7 +55,7 @@ I'm always hungry to learn and grow, because in this field, there's always somet
   </tr>
 </table>
  
-<h1><img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" width="53"/>Tools & Technology </h1>
+<h1><img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" height="53"/>Tools & Technology </h1>
 
 <table align="center" class="table table-dark">
   <tr bg-dark>
@@ -174,7 +174,23 @@ I'm always hungry to learn and grow, because in this field, there's always somet
   </tr>
 </table>
 
- <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="50" height="50" />Top Language used </h1>
+<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="53" height="53" align="center" />GSSoC Badge's</h1>
+
+<table align="center" class="table table-dark">
+    <tr bg-dark>
+        <td align="center">
+          <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/30715153/334789435-f3045ade-446f-46d8-a730-05f9f2ca9ecf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240727%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240727T040448Z&X-Amz-Expires=300&X-Amz-Signature=303f23bb62e8604f551a313d7de01304a3f55887b9d68b72e54d9c7dbca4e21c&X-Amz-SignedHeaders=host&actor_id=116189379&key_id=0&repo_id=378841874" />
+        </td>
+        <td align="center">
+          <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/30715153/334807053-9666dc59-e8d8-4273-b110-ce4f26e2f3b2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240727%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240727T040554Z&X-Amz-Expires=300&X-Amz-Signature=638798a6e72e5bfacade742602b60035cdac4ec62c0037308e2c6a3a92e53b00&X-Amz-SignedHeaders=host&actor_id=116189379&key_id=0&repo_id=378841874" />
+        </td>
+        <td align="center">
+          <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/30715153/334808148-74e579a0-a2b4-4010-9c8c-271a51cc441d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240727%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240727T040555Z&X-Amz-Expires=300&X-Amz-Signature=5ea25b66526ea0ba5b1ac09c6b36cbf347ef368a3d322b9d29fb888e05f293ab&X-Amz-SignedHeaders=host&actor_id=116189379&key_id=0&repo_id=378841874" />
+        </td>
+    </tr>
+</table>
+  
+ <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="53" height="53" />Top Language used </h1>
  
 
 <table align="center" class="table table-dark">
