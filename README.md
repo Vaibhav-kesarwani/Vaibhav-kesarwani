@@ -30,7 +30,7 @@ I'm always hungry to learn and grow, because in this field, there's always somet
 
 
 
-<h1><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;">Let's connect! </h1>
+<h1><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;">Let's Connect! </h1>
 
 <table align="" class="table table-dark">
   <tr bg-dark>
@@ -190,7 +190,7 @@ I'm always hungry to learn and grow, because in this field, there's always somet
     </tr>
 </table>
   
- <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="53" height="53" />Top Language used </h1>
+ <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="53" height="53" />Top Language Used </h1>
  
 
 <table align="center" class="table table-dark">
