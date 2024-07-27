@@ -18,7 +18,7 @@ Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246
 
 And then there's web development – it's like my creative outlet! HTML, CSS, JavaScript, React Js – I'm all in! 💻 Building cool web apps and seeing them come to life is just so rewarding. And of course, we can't forget about databases like MySQL and MongoDB – they're the backbone of everything we do.
 
-I'm always hungry to learn and grow, because in this field, there's always something new around the corner. So, let's keep pushing those boundaries and see where our skills take us! 🔥
+I'm always hungry to learn and grow, because in this field, there's always something new around the corner. So, let's keep pushing those boundaries and see where our skills take us! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" align="center" />
 
 * 🌍  Open Source Contributor from ****India**** 🇮🇳
 * 🖥️  See my portfolio at [My Portfolio](https://vaibhavkesarwani.vercel.app/)
@@ -30,8 +30,8 @@ I'm always hungry to learn and grow, because in this field, there's always somet
 
 
 
-<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="85px" style="max-width: 100%; user-select: auto;">Let's connect!
-----------------------------------
+<h1><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="85px" style="max-width: 100%; user-select: auto;">Let's connect! </h1>
+
 <table align="" class="table table-dark">
   <tr bg-dark>
     <td align="center" widht=90>
@@ -55,8 +55,8 @@ I'm always hungry to learn and grow, because in this field, there's always somet
   </tr>
 </table>
  
-<img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" width="53"/>Tools & Technology
----------------------
+<h1><img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" width="53"/>Tools & Technology </h1>
+
 <table align="center" class="table table-dark">
   <tr bg-dark>
     <td align="center" widht="90">
@@ -174,8 +174,8 @@ I'm always hungry to learn and grow, because in this field, there's always somet
   </tr>
 </table>
 
- ⚡Top Language used⚡
- -------------------
+ <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="50" height="50" />Top Language used </h1>
+ 
 
 <table align="center" class="table table-dark">
     <tr bg-dark>
