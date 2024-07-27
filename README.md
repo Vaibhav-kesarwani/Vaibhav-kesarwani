@@ -23,11 +23,11 @@ I'm always hungry to learn and grow, because in this field, there's always somet
 
 * 🌍  Open Source Contributor from ****India**** 🇮🇳
 * 🖥️  See my portfolio at [My Portfolio](https://vaibhavkesarwani.vercel.app/)
-* ✉️  You can contact me at [vaibhavkesarwani100@gmail.com](mailto:vaibhavkesarwani100@gmail.com)
-* 🚀  I'm currently working on [Machine Learning & Deep Learning](https://en.wikipedia.org/wiki/Machine_learning)
-* 🧠  I'm learning MERN, Tensorflow, NumPy, JS, Kotlin, React Native
-* 🤝  I'm open to collaborating on Web devlopment & App development
-* ⚡  There's no place like **127.0.0.1**
+* <img src="https://user-images.githubusercontent.com/74038190/219925444-83554312-0997-4567-945f-b64096943b07.png" width="30" />You can contact me at [vaibhavkesarwani100@gmail.com](mailto:vaibhavkesarwani100@gmail.com)
+* <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="30">I'm currently working on [Machine Learning & Deep Learning](https://en.wikipedia.org/wiki/Machine_learning)
+* <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/baf52aa6-ff71-412d-9607-db8feb17874b" width="30">I'm learning MERN, Tensorflow, NumPy, JS, Kotlin, React Native
+* <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="40" style="user-select: auto;">I'm open to collaborating on Web devlopment & App development
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" />There's no place like **127.0.0.1**
 
 
 
