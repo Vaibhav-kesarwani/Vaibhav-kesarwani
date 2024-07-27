@@ -9,25 +9,25 @@
 
 
 
-<h1> 🎓Student, Web Developer & App Developer </h1>
+<h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="53" height="53" align="center" />Student, Web Developer & App Developer </h1>
 
-Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> So, I'm a second-year CSE(AIML) student, and I'm super passionate about coding! I love diving into languages like C, C++, Python, Java, and Kotlin because they open up so many possibilities for app development. But you know what's even more exciting? AI and ML! 🤖 Exploring these fields feels like unlocking a whole new world of possibilities.
+Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> So, I'm a second-year CSE(AIML) student, and I'm super passionate about coding! I love diving into languages like C, C++, Python, Java, and Kotlin because they open up so many possibilities for app development. But you know what's even more exciting? AI and ML! <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="30" align="center"> Exploring these fields feels like unlocking a whole new world of possibilities.
 
 <div>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" align="right">
 </div>
 
-And then there's web development – it's like my creative outlet! HTML, CSS, JavaScript, React Js – I'm all in! 💻 Building cool web apps and seeing them come to life is just so rewarding. And of course, we can't forget about databases like MySQL and MongoDB – they're the backbone of everything we do.
+And then there's web development – it's like my creative outlet! HTML, CSS, JavaScript, React Js – I'm all in! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" align="center" /> Building cool web apps and seeing them come to life is just so rewarding. And of course, we can't forget about databases like MySQL and MongoDB – they're the backbone of everything we do.
 
 I'm always hungry to learn and grow, because in this field, there's always something new around the corner. So, let's keep pushing those boundaries and see where our skills take us! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" align="center" />
 
-* 🌍  Open Source Contributor from ****India**** 🇮🇳
-* 🖥️  See my portfolio at [My Portfolio](https://vaibhavkesarwani.vercel.app/)
-* <img src="https://user-images.githubusercontent.com/74038190/219925444-83554312-0997-4567-945f-b64096943b07.png" width="30" />You can contact me at [vaibhavkesarwani100@gmail.com](mailto:vaibhavkesarwani100@gmail.com)
-* <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="30">I'm currently working on [Machine Learning & Deep Learning](https://en.wikipedia.org/wiki/Machine_learning)
-* <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/baf52aa6-ff71-412d-9607-db8feb17874b" width="30">I'm learning MERN, Tensorflow, NumPy, JS, Kotlin, React Native
-* <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="40" style="user-select: auto;">I'm open to collaborating on Web devlopment & App development
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" />There's no place like **127.0.0.1**
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe Showing Asia-Australia" width="30" align="center" />Open Source Contributor from ****India**** 🇮🇳
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="30" align="center" />See my portfolio at [My Portfolio](https://vaibhavkesarwani.vercel.app/)
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="30" align="center" />You can contact me at [vaibhavkesarwani100@gmail.com](mailto:vaibhavkesarwani100@gmail.com)
+* <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="30" align="center">I'm currently working on [Machine Learning & Deep Learning](https://en.wikipedia.org/wiki/Machine_learning)
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="30" align="center" />I'm learning MERN, Tensorflow, NumPy, JS, Kotlin, React Native
+* <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="30" align="center" />I'm open to collaborating on Web devlopment & App development
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" align="center" />There's no place like **127.0.0.1**
 
 
 
