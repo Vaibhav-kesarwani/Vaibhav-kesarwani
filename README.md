@@ -7,14 +7,15 @@
 
 <br /> 
 
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
 
 
 <h1> 🎓Student, Web Developer & App Developer </h1>
 
 Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> So, I'm a second-year CSE(AIML) student, and I'm super passionate about coding! I love diving into languages like C, C++, Python, Java, and Kotlin because they open up so many possibilities for app development. But you know what's even more exciting? AI and ML! 🤖 Exploring these fields feels like unlocking a whole new world of possibilities.
+
+<div>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" align="right">
+</div>
 
 And then there's web development – it's like my creative outlet! HTML, CSS, JavaScript, React Js – I'm all in! 💻 Building cool web apps and seeing them come to life is just so rewarding. And of course, we can't forget about databases like MySQL and MongoDB – they're the backbone of everything we do.
 
