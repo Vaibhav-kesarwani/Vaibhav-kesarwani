@@ -177,10 +177,10 @@ I'm always hungry to learn and grow, because in this field, there's always somet
 
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="53" height="53" align="center" />GSSoC Badge's</h1>
 
-<table align="center" class="table table-dark">
+<!--<table align="center" class="table table-dark">
     <tr bg-dark>
         <td align="center">
-          <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/116189379/352766673-3b603300-5248-4822-be5d-a62da709806d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240728%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240728T015727Z&X-Amz-Expires=300&X-Amz-Signature=dfdefa7e804ac79a94ddeb194a0470387f383d3586751ac702c999487281b45a&X-Amz-SignedHeaders=host&actor_id=116189379&key_id=0&repo_id=727300451" />
+          <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/116189379/352766673-3b603300-5248-4822-be5d-a62da709806d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240728%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240728T015727Z&X-Amz-Expires=300&X-Amz-Signature=dfdefa7e804ac79a94ddeb194a0470387f383d3586751ac702c999487281b45a&X-Amz-SignedHeaders=host&actor_id=116189379&key_id=0&repo_id=727300451" width="200" />
         </td>
         <td align="center">
           <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/30715153/334789435-f3045ade-446f-46d8-a730-05f9f2ca9ecf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240727%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240727T040448Z&X-Amz-Expires=300&X-Amz-Signature=303f23bb62e8604f551a313d7de01304a3f55887b9d68b72e54d9c7dbca4e21c&X-Amz-SignedHeaders=host&actor_id=116189379&key_id=0&repo_id=378841874" />
@@ -198,7 +198,23 @@ I'm always hungry to learn and grow, because in this field, there's always somet
           <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/30715153/334811008-2274e5cd-fb05-43fc-a939-3e18ca881c1b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240728%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240728T015221Z&X-Amz-Expires=300&X-Amz-Signature=e7b4599fef4236692e2cb672225109aff7b2bd04a06b701f038b387bbb1775ae&X-Amz-SignedHeaders=host&actor_id=116189379&key_id=0&repo_id=378841874" />
       </td>
     </tr>
-</table>
+</table> -->
+
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+  <table>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="200px" /></td>
+  <td><img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="200px" /></td>
+  <td><img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="200px" /></td>
+  <td><img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="200px" /></td>
+  <td><img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="200px" /></td>
+  <td><img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="200px" /></td>
+  <!--<img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /> -->
+      </tr>
+  </table>
+</div>
   
  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="53" height="53" />Top Language Used </h1>
  
