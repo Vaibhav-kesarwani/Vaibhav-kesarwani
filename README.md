@@ -180,7 +180,7 @@ I'm always hungry to learn and grow, because in this field, there's always somet
 <table align="center" class="table table-dark">
     <tr bg-dark>
         <td align="center">
-          <img src="https://github.com/user-attachments/assets/3b603300-5248-4822-be5d-a62da709806d" width="490" />
+          <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/116189379/352766673-3b603300-5248-4822-be5d-a62da709806d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240728%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240728T015727Z&X-Amz-Expires=300&X-Amz-Signature=dfdefa7e804ac79a94ddeb194a0470387f383d3586751ac702c999487281b45a&X-Amz-SignedHeaders=host&actor_id=116189379&key_id=0&repo_id=727300451" />
         </td>
         <td align="center">
           <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/30715153/334789435-f3045ade-446f-46d8-a730-05f9f2ca9ecf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240727%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240727T040448Z&X-Amz-Expires=300&X-Amz-Signature=303f23bb62e8604f551a313d7de01304a3f55887b9d68b72e54d9c7dbca4e21c&X-Amz-SignedHeaders=host&actor_id=116189379&key_id=0&repo_id=378841874" />
