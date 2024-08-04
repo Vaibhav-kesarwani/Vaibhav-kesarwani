@@ -1,6 +1,6 @@
 <div align="center">
 <p> <img align="right" src="https://komarev.com/ghpvc/?username=Vaibhav-kesarwani&label=Profile%20views&color=0e75b6&style=flat" alt="Vaibhav-kesarwani" /> </p>
-<a href="https://www.buymeacoffee.com/vaibhavKesarwani" target="_blank"><img align="left" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=vaibhavKesarwani&button_colour=93f500&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<a href="https://www.buymeacoffee.com/vaibhavKesarwani" target="_blank"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" class style="height: 60px !important;width: 217px !important;" /></a>
 </div>
 
 </br></br></br>
