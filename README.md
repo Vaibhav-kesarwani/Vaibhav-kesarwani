@@ -1,6 +1,6 @@
 <div align="center">
 <p> <img align="right" src="https://komarev.com/ghpvc/?username=Vaibhav-kesarwani&label=Profile%20views&color=0e75b6&style=flat" alt="Vaibhav-kesarwani" /> </p>
-<a href="https://www.buymeacoffee.com/vaibhavKesarwani" target="_blank"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" class style="height: 60px !important;width: 217px !important;" /></a>
+<a href="https://www.buymeacoffee.com/vaibhavKesarwani" target="_blank"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="160" /></a>
 </div>
 
 </br></br></br>
@@ -242,3 +242,7 @@ I'm always hungry to learn and grow, because in this field, there's always somet
         </td>
     </tr>
 </table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
+</p>
