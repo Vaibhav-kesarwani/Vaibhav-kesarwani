@@ -4,8 +4,8 @@
 </div>
 
 </br></br></br>
-
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/> Hi ɪ'ᴍ Vaibhav! </h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/> Hi there, I'm <a href="https://www.linkedin.com/in/vaibhav-kesarwani-9b5b35252/">Vaibhav Kesarwnai</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
+<!-- <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/> Hi ɪ'ᴍ Vaibhav! </h1> -->
 <!-- <img  alt="portfolio" width="100%" src="https://miro.medium.com/v2/resize:fit:1400/0*s7-847-cMWNrfnyH.gif"> -->
 
 ![gitartwork](gitartwork.svg)
