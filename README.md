@@ -1,5 +1,5 @@
 <div align="center">
-<p> <img align="right" src="https://komarev.com/ghpvc/?username=Vaibhav-kesarwani&label=Profile%20views&color=0e75b6&style=flat" alt="Vaibhav-kesarwani" /> </p>
+<p> <img align="right" src="https://komarev.com/ghpvc/?username=Vaibhav-kesarwani&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="Vaibhav-kesarwani" /> </p>
 <a href="https://www.buymeacoffee.com/vaibhavKesarwani" target="_blank"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="160" /></a>
 </div>
 
