@@ -33,14 +33,20 @@ I'm always hungry to learn and grow, because in this field, there's always somet
 <img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
 </div>
 
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe Showing Asia-Australia" width="30" align="center" />Open Source Contributor from ****India**** 🇮🇳
+<!-- * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe Showing Asia-Australia" width="30" align="center" />Open Source Contributor from ****India**** 🇮🇳
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="30" align="center" />See my portfolio at [My Portfolio](https://vaibhavkesarwani.vercel.app/)
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="30" align="center" />You can contact me at [vaibhavkesarwani100@gmail.com](mailto:vaibhavkesarwani100@gmail.com)
 * <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="30" align="center">I'm currently working on [Machine Learning & Deep Learning](https://en.wikipedia.org/wiki/Machine_learning)
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="30" align="center" />I'm learning MERN, Tensorflow, NumPy, JS, Kotlin, React Native
 * <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="30" align="center" />I'm open to collaborating on Web devlopment & App development
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" align="center" />There's no place like **127.0.0.1**
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" align="center" />There's no place like **127.0.0.1** -->
 
+- 📍 Open Source Contributor from **India**
+- 🎓 I'm a Student and Web Developer
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning Machine Learning
+- 👯 I’m looking to collaborate with open source enthusiasts and developers
+- 🥅 2024 Goals: Learn Machine Learning, DevOps And strengthen DSA
 
 
 <h1><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;">Let's Connect! </h1>
