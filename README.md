@@ -201,13 +201,15 @@ I'm always hungry to learn and grow, because in this field, there's always somet
     </tr>
 </table>
 
+<hr />
+
 <p align="center">
   <b>Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
 </p>
 
 <p align="center">
   <a href="https://buymeacoffee.com/vaibhavKesarwani" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"/>
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="160"/>
   </a>
 </p>
 
