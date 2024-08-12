@@ -1,20 +1,22 @@
-<div align="center">
-<p> <img align="right" src="https://komarev.com/ghpvc/?username=Vaibhav-kesarwani&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="Vaibhav-kesarwani" /> </p>
-<a href="https://www.buymeacoffee.com/vaibhavKesarwani" target="_blank"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="160" /></a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
+<div>
+<p> <img src="https://komarev.com/ghpvc/?username=Vaibhav-kesarwani&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="Vaibhav-kesarwani" /> </p>
+<!-- <a href="https://www.buymeacoffee.com/vaibhavKesarwani" target="_blank"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="160" /></a> -->
 </div>
+
 
 </br></br></br>
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/> Hi there, I'm <a href="https://www.linkedin.com/in/vaibhav-kesarwani-9b5b35252/">Vaibhav Kesarwnai</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 <!-- <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/> Hi ɪ'ᴍ Vaibhav! </h1> -->
 <!-- <img  alt="portfolio" width="100%" src="https://miro.medium.com/v2/resize:fit:1400/0*s7-847-cMWNrfnyH.gif"> -->
 
-![gitartwork](gitartwork.svg)
+<!-- ![gitartwork](gitartwork.svg) -->
 
 <br /> 
 
 
 
-<h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="53" height="53" align="center" />Student, Web Developer & App Developer </h1>
+<!-- <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="53" height="53" align="center" />Student, Web Developer & App Developer </h1>
 
 Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> So, I'm a second-year CSE(AIML) student, and I'm super passionate about coding! I love diving into languages like C, C++, Python, Java, and Kotlin because they open up so many possibilities for app development. But you know what's even more exciting? AI and ML! <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="30" align="center"> Exploring these fields feels like unlocking a whole new world of possibilities.
 
@@ -24,7 +26,11 @@ Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246
 
 And then there's web development – it's like my creative outlet! HTML, CSS, JavaScript, React Js – I'm all in! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" align="center" /> Building cool web apps and seeing them come to life is just so rewarding. And of course, we can't forget about databases like MySQL and MongoDB – they're the backbone of everything we do.
 
-I'm always hungry to learn and grow, because in this field, there's always something new around the corner. So, let's keep pushing those boundaries and see where our skills take us! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" align="center" />
+I'm always hungry to learn and grow, because in this field, there's always something new around the corner. So, let's keep pushing those boundaries and see where our skills take us! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" align="center" /> -->
+
+<div>
+<img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
+</div>
 
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe Showing Asia-Australia" width="30" align="center" />Open Source Contributor from ****India**** 🇮🇳
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="30" align="center" />See my portfolio at [My Portfolio](https://vaibhavkesarwani.vercel.app/)
@@ -197,6 +203,4 @@ I'm always hungry to learn and grow, because in this field, there's always somet
     </tr>
 </table>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" alt="Footer"/>
