@@ -233,4 +233,4 @@ I'm always hungry to learn and grow, because in this field, there's always somet
   </a>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" alt="Footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
