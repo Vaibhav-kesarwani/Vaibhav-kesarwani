@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
 
-![Group 3banner2](https://github.com/user-attachments/assets/45137e6e-2152-4190-bc89-df331c42512c)
-
 <div>
 <p> <img src="https://komarev.com/ghpvc/?username=Vaibhav-kesarwani&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="Vaibhav-kesarwani" /> </p>
 <!-- <a href="https://www.buymeacoffee.com/vaibhavKesarwani" target="_blank"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="160" /></a> -->
 </div>
+
+![Group 3banner2](https://github.com/user-attachments/assets/45137e6e-2152-4190-bc89-df331c42512c)
 
 <h1 align="center"><!-- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/> --> Hi there, I'm <a href="https://www.linkedin.com/in/vaibhav-kesarwani-9b5b35252/">Vaibhav Kesarwnai</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 <!-- <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/> Hi ɪ'ᴍ Vaibhav! </h1> -->
