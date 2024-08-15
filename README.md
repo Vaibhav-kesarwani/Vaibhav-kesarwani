@@ -214,7 +214,7 @@ I'm always hungry to learn and grow, because in this field, there's always somet
 
 <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaibhav-kesarwani&theme=highcontrast">
 <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vaibhav-kesarwani&theme=highcontrast">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vaibhav-kesarwani&theme=highcontrast">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vaibhav-kesarwani&theme=highcontrast">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vaibhav-kesarwani&theme=highcontrast">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vaibhav-kesarwani&theme=highcontrast&utcOffset=8">
 <img height="166em" src="https://github-readme-stats.vercel.app/api?username=Vaibhav-kesarwani&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false">
