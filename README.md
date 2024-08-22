@@ -217,7 +217,8 @@ I'm always hungry to learn and grow, because in this field, there's always somet
 <!-- <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vaibhav-kesarwani&theme=highcontrast"> -->
 <img height="165em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Vaibhav-kesarwani&hide=HTML,css,scss,cmake,swift&langs_count=8&layout=compact&theme=highcontrast&border_radius=10&size_weight=0.5&count_weight=0.5&hide_border=true&exclude_repo=github-readme-stats" alt="top langs" /> 
 <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vaibhav-kesarwani&theme=highcontrast">
-<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vaibhav-kesarwani&theme=highcontrast&utcOffset=24">
+<!-- <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vaibhav-kesarwani&theme=highcontrast&utcOffset=24"> -->
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-kesarwani&layout=donut&theme=highcontrast&hide_border=true" />
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Vaibhav-kesarwani&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false">
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav-kesarwani&theme=highcontrast&hide_border=true">
 
