@@ -220,8 +220,8 @@ I'm always hungry to learn and grow, because in this field, there's always somet
 <!-- <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vaibhav-kesarwani&theme=highcontrast&utcOffset=24"> -->
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-kesarwani&hide=HTML,css,scss,cmake,swift&layout=donut&theme=highcontrast&hide_border=true" />
 <!-- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Vaibhav-kesarwani&theme=highcontrast&hide_border=true&include_all_ C++  2 MIT License Updated 1 hour agocommits=false&count_private=false"> -->
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Vaibhav-kesarwani&show_icons=true&hide_border=true&theme=highcontrast&count_private=true" />
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav-kesarwani&theme=highcontrast&hide_border=true">
+<img height="168em" src="https://github-readme-stats.vercel.app/api?username=Vaibhav-kesarwani&show_icons=true&hide_border=true&theme=highcontrast&count_private=true" />
+<img height="168em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav-kesarwani&theme=highcontrast&hide_border=true">
 
 </div><br>
 
