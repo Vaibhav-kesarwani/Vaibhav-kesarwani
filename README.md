@@ -147,7 +147,7 @@ I'm always hungry to learn and grow, because in this field, there's always somet
   </tr>
 </table>
 
-<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="53" height="53" align="center" />GSSoC Badge's</h1>
+<!--<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="53" height="53" align="center" />GSSoC Badge's</h1>-->
 
 <!--<table align="center" class="table table-dark">
     <tr bg-dark>
@@ -172,7 +172,7 @@ I'm always hungry to learn and grow, because in this field, there's always somet
     </tr>
 </table> -->
 
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<!--<div style='display:flex; align-items:center; gap: 10px;' align='center'>
   <table>
     <tr>
       <td><img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="200px" /></td>
@@ -181,14 +181,14 @@ I'm always hungry to learn and grow, because in this field, there's always somet
   <td><img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="200px" /></td>
   <td><img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="200px" /></td>
   <td><img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="200px" /></td>
-<!--   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="200px" /> -->
-<!--   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="200px" /> -->
-<!--   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="200px" /> -->
+<img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="200px" /> 
+<img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="200px" /> 
+<img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="200px" /> 
       </tr>
   </table>
-</div>
+</div> -->
   
- <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="53" height="53" />GitHub Stats </h1>
+ <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="53" height="53" align="center" />GitHub Stats </h1>
  
 
 <!-- <table align="center" class="table table-dark">
