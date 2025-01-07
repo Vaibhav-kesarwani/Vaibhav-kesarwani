@@ -52,13 +52,9 @@
 
 <table align="center" class="table table-dark">
   <tr bg-dark>
-    <td align="center" widht="90">
+   <td align="center" widht="90">
       <img src="https://skillicons.dev/icons?i=flutter" alt="icon" width="55" height="55" />
       <br>Flutter
-    </td>
-    <td align="center" widht="90">
-      <img src="https://skillicons.dev/icons?i=django" alt="icon" width="55" height="55" />
-      <br>Django
     </td>
     <td align="center" widht="90">
       <img src="https://skillicons.dev/icons?i=js" alt="icon" width="55" height="55" />
@@ -68,24 +64,40 @@
       <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="55" height="55" />
       <br>Typescript
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="55" height="55" />
-      <br>Next Js
-    </td>
     <td align="center" widht="90">
       <img src="https://skillicons.dev/icons?i=react" alt="icon" width="55" height="55" />
       <br>React Js
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flask" alt="icon" width="55" height="55" />
-      <br>Flask
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="55" height="55" />
+      <br>Next Js
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=threejs" width="55" height="55" alt="icon" />
       <br>Three Js
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="55" height="55" />
+      <br>Node Js
+    </td>
+   <td align="center" widht="90">
+      <img src="https://skillicons.dev/icons?i=express" alt="icon" width="55" height="55" />
+      <br>Express
+    </td>
+   <td align="center" widht="90">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="55" height="55" />
+      <br>MySQL
+    </td>
   </tr>
   <tr>
+     <td align="center" widht=90>
+      <img src="https://skillicons.dev/icons?i=cpp" alt="icon" width="55" height="55" />
+      <br>C++
+     </td>
+     <td align="center" widht=90>
+      <img src="https://skillicons.dev/icons?i=py" alt="icon" width="55" height="55" />
+      <br>Python
+     </td>
      <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=tensorflow" alt="icon" width="55" height="55" />
       <br>Tensorflow
@@ -96,15 +108,11 @@
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=opencv" alt="icon" width="55" height="55" />
-      <br>Open CV
+      <br>OpenCV
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" alt="MongoDB" />
-      <br>C++
-    </td>
-    <td align="center" widht=90>
-      <img src="https://skillicons.dev/icons?i=python" alt="icon" width="55" height="55" />
-      <br>Python
+    <td align="center" widht="90">
+      <img src="https://skillicons.dev/icons?i=django" alt="icon" width="55" height="55" />
+      <br>Django
     </td>
     <td align="center" widht=90>
       <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="55" height="55" />
