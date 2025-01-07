@@ -41,7 +41,7 @@
     </td>
    <td align="center" widht=90>
         <a href="mailto:vaibhavkesarwani100.com" target="_blank">
-            <img src="https://skillicons.dev/icons?i=gmail" />
+            <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
         </a>
         <br>Gmail
     </td>
