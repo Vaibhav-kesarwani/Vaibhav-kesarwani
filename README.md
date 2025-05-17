@@ -31,12 +31,12 @@
         </a>
       <br>Linkedin
     </td>
-    <td align="center" widht=90>
+<!--     <td align="center" widht=90>
         <a href="https://twitter.com/Vaibhav_k__" target="_blank">
             <img src="https://skillicons.dev/icons?i=twitter" />
         </a>
         <br>Twitter
-    </td>
+    </td> -->
    <td align="center" widht=90>
         <a href="mailto:vaibhavkesarwani100.com" target="_blank">
             <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
