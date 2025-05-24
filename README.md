@@ -43,18 +43,19 @@
         </a>
         <br>Gmail
     </td>
+   <td align="center" widht=90>
+        <a href="https://www.kaggle.com/vaibhavk22" target="_blank">
+            <img src="https://github.com/user-attachments/assets/179b4b64-aa51-425b-81bc-4ab102cc4494" width="50">
+        </a>
+        <br>Kaggle
+   </td>
     <td align="center" widht=90>
         <a href="https://vaibhavkesarwani.vercel.app/" target="_blank">
             <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
         </a>
         <br>Portfolio
     </td>
-   <td align="center" widht=90>
-        <a href="https://www.kaggle.com/vaibhavk22" target="_blank">
-            <img src="/images/kaggle.svg" width="50">
-        </a>
-        <br>Kaggle
-    </td>
+
   </tr>
 </table>
  
