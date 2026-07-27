@@ -153,7 +153,6 @@
 <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vaibhav-kesarwani&theme=highcontrast">
 <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vaibhav-kesarwani&hide=HTML,css,scss,cmake&layout=donut&theme=highcontrast&hide_border=true" />
 <img height="166em" src="https://github-stats-extended.vercel.app/api?username=Vaibhav-kesarwani&show_icons=true&hide_border=true&theme=highcontrast&count_private=true" />
-<img height="166em" src="https://github-stats-extended.vercel.app/api?username=Vaibhav-kesarwani&theme=highcontrast&hide_border=true" />
 
 </div><br>
 
